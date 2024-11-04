@@ -94,13 +94,13 @@
 
           <div class="collapse navbar-collapse" id="navbar-menu">
             <ul class="nav navbar-nav navbar-right">
-              <li class="active"><a href="/">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li><a href="/about">About</a></li>
               <li><a href="/service">Service</a></li>
               <li><a href="/blog">Blog</a></li>
               <li><a href="#contact">Contact</a></li>
               <li><a href="/portfolio">Portfolio</a></li>
-              <li><a href="#login">Login</a></li>
+              <li><a href="{{route('auth')}}">Login</a></li>
             </ul>
           </div>
         </div>

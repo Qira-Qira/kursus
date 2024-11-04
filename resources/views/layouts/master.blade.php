@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Website Kursus</title>
+    <title>Kursus</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/png" href="{{asset('favicon.ico')}}" />
@@ -27,9 +27,10 @@
 
 <body data-spy="scroll" data-target=".navbar-collapse">
 
+
     @include('layouts.loading')
 
-
+    
     @include('layouts.header')
 
     <main>

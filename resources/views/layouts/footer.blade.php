@@ -1,6 +1,4 @@
-
-
-   
+  
 
       <section id="brand" class="brand fix roomy-80">
         <div class="container">
@@ -41,7 +39,7 @@
         </div>
       </section>
 
-      <section id="action" class="action bg-primary roomy-40">
+      <!-- <section id="action" class="action bg-primary roomy-40">
         <div class="container">
           <div class="row">
             <div class="maine_action">
@@ -55,7 +53,7 @@
               <div class="col-md-4">
                 <div class="action_btn text-left sm-text-center">
                   <a
-                    href="https://www.youtube.com/@codeworshipper?sub_confirmation=1"
+                    href="www.youtube.com/@ariq207"
                     class="btn btn-default"
                     target="_blank"
                     >Subscribe Now</a
@@ -65,9 +63,9 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
-      <footer id="contact" class="footer action-lage bg-black p-top-80">
+      <footer id="contact" class="footer bg-black p-top-80">
         <div class="container">
           <div class="row">
             <div class="widget_area">
@@ -250,9 +248,9 @@
               <i class="fa fa-heart"></i>
               by
               <a target="_blank" href="https://youtube.com/@codeworshipper"
-                >Code Worshipper</a
+                >Ariq</a
               >
-              2023. All Rights Reserved
+              2024. All Rights Reserved
             </p>
           </div>
         </div>
